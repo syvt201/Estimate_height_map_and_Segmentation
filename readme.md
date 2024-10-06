@@ -42,30 +42,30 @@ The table above displays the Mean Absolute Error (MAE), Mean Square Error (MSE),
 ![](figures/esimate_height_map_result.jpg)
 
 ## Training Loss Graph:
-![](figures\UNet_training_loss.png)
+![](figures/UNet_training_loss.png)
 
-![](figures\RestNet34_training_loss.png)
+![](figures/RestNet34_training_loss.png)
 
 ## Performance Comparison
 ##### Perfomance comparison of UNet model for segmentation problems with and without height data
-![](figures\unet_performance.jpg)
+![](figures/unet_performance.jpg)
 
 
 ##### Perfomance comparison of ResNet34 model for segmentation problems with and without height data
-![](figures\resnet_performance.jpg)
+![](figures/resnet_performance.jpg)
 
 ## Qualitative Analysis
 ##### U-Net prediction results for 3-classes segmentation:
-![](figures\unet_3class_result.jpg)
+![](figures/unet_3class_result.jpg)
 
 ##### U-Net prediction results for 6-classes segmentation:
-![](figures\unet_6class_result.jpg)
+![](figures/unet_6class_result.jpg)
 
 
 ##### U-Net prediction results for 3-classes segmentation:
-![](figures\resnet_3class_result.jpg)
+![](figures/resnet_3class_result.jpg)
 
 
 ##### U-Net prediction results for 3-classes segmentation:
-![](figures\resnet_6class_result.jpg)
+![](figures/resnet_6class_result.jpg)
 
