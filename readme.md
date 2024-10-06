@@ -20,7 +20,7 @@ The dataset for this project was provided by the Naver team and includes both RG
 
 I manually labeled six classes—tree, grass, water, building, road, and background—on the RGB images using the AnyLabeling tool, and created a corresponding mask image for each RGB image. The images were then cropped into smaller patches of 400x400 pixels and split into training and testing sets. The training set consists of 1,787 patches, while the testing set includes 63 patches (cropped from a larger image for testing and inference).
 
-RGB and labeled mask patches
+##### RGB and labeled mask patches:
 ![](figures/rgb_and_mask.jpg)
 
 ## Height Map Estimation
